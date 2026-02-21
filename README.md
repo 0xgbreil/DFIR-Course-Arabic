@@ -13,6 +13,8 @@ Arabic DFIR course covering Digital Forensics & Incident Response with practical
 
 ---
 
+Course Link -> https://youtube.com/playlist?list=PL6cHkEIFQYE_io0kcLtWwdOYv0WfpwTHA&si=pEvE5gmRLS5G_gAz
+
 ## 🎥 My YouTube Channel
 https://www.youtube.com/@0xgbreil
 
